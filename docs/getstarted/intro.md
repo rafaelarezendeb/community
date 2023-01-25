@@ -1,7 +1,7 @@
 ---
 lang: pt-BR
 title: Início rápido
-description: Inicie rapidamente projetos em diversas áreas
+description: Inicie algum projeto simples para iniciar seus estudos
 head:
   - - meta
     - name: foo
